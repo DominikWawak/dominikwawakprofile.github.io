@@ -1,0 +1,165 @@
+
+body{
+    height:100%;
+   
+}
+
+
+#bg{
+    background-image: url(images/b2e9da36cc77281c86bd954a70945346.jpg);
+    margin-left: 10%;
+    margin-right: 10%;
+   
+}
+
+
+
+#backgroundimage{
+    background-image: url(images/IMG_20180420_114729.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+    width: 200%;
+    height: 1000px;
+    margin-left: -10%;
+    margin-right: -10%;
+
+   
+	
+}
+
+#divimage1{
+    background-image: url(images/PANO_20170720_155057.jpg);
+ height: 150px;
+   background-size: 100%;
+    background-attachment:scroll;
+   padding: 20px;
+   margin-left: -10%;
+    margin-right: -10%;
+	background-position:top;
+    background-repeat: repeat-x;
+    
+	
+	
+}
+#divimage2{
+    background-image: url(images/1497855589910.jpg);
+    height: 150px;
+    background-size: 100%;
+     background-attachment:scroll;
+    padding: 20px;
+    margin-left: -10%;
+     margin-right: -10%;
+     background-position:top;
+     background-repeat: repeat-x
+	
+	
+}
+#divimage3{
+    background-image: url(images/65184645_465244487367278_1839490074325024768_n.jpg);
+    height: 150px;
+    background-size: 100%;
+     background-attachment:scroll;
+    padding: 20px;
+    margin-left: -10%;
+     margin-right: -10%;
+     background-position:top;
+     background-repeat: repeat-x
+	
+	
+}
+
+#divimage4{
+    background-image: url(images/mepedraza2.jpg);
+    height: 150px;
+    background-size: 100%;
+     background-attachment:scroll;
+    padding: 20px;
+    margin-left: -10%;
+     margin-right: -10%;
+     background-position:top;
+     background-repeat: repeat-x
+	
+	
+}
+
+
+.title2{
+    font-size:4vw;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+   
+    color: aliceblue;
+    
+}
+.title3{
+    font-size:1.5vw;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+   
+   
+    
+}
+.centertext{
+ text-align: center;
+}
+
+.centeredm{
+    width : 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+.card {
+    float: left;
+    margin-left:20px;
+    
+}
+
+.segmentpos{
+    float: left;
+    padding:2cm;
+    width:1000px;
+    margin-left: 0px;
+}
+.leftalign{
+    float: left;
+}
+.ppadding{
+padding: 2%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+  
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 10vw;
+    height: 10vw;
+   
+  }
+
+  .swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 200px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 290px;
+    height: 500px;
+    background-color: #000;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,transparent,#0006);
+
+  }
